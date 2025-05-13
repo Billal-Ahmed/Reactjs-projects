@@ -1,0 +1,1 @@
+<!-- Generate password with just one click -->
