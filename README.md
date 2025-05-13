@@ -1,11 +1,15 @@
-<h1> ReactJS projects: </h1>
-### Password Generator
-### simple: background color changer. first one
-### Corrency converter
-### React Router
-### 
-###
-###
-###
-###
-###
+# ReactJS Projects:
+
+### ✅ Password Generator
+
+### ✅ Simple: Background Color Changer (First One)
+
+### ✅ Currency Converter
+
+### ✅ React Router
+
+### ⏳ (Add more projects below as needed)
+- 
+- 
+- 
+- 
