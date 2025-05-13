@@ -1,1 +1,0 @@
-<!-- using open source api's, find out currency exchange rate using this app -->
